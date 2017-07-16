@@ -1,0 +1,117 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    tools:context="com.example.andriod.freelithics.LearnTheMovements">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        style="@style/learn_movements"
+        android:id="@+id/back_squat"
+        android:text="Back squat"
+                />
+        <Button
+            android:id="@+id/deadlift"
+            style="@style/learn_movements"
+            android:text="deadlift"
+                        />
+        <Button
+            android:id="@+id/bench_press"
+            style="@style/learn_movements"
+            android:text="Bench press"
+            />
+        <Button
+            android:id="@+id/bent_row"
+            style="@style/learn_movements"
+            android:text="bent row"
+            />
+        <Button
+            android:id="@+id/barbell_curl"
+            style="@style/learn_movements"
+            android:text="barbell curl"
+            />
+        <Button
+            android:id="@+id/front_squat"
+        style="@style/learn_movements"
+        android:text="front squat"
+        />
+        <Button
+            android:id="@+id/lunge"
+            style="@style/learn_movements"
+            android:text="lunge"
+            />
+        <Button
+            android:id="@+id/cucoon"
+            style="@style/learn_movements"
+            android:text="plate cucoon"
+            />
+        <Button
+            android:id="@+id/sit_up"
+            style="@style/learn_movements"
+            android:text="plate sit up"
+            />
+        <Button
+            android:id="@+id/twist"
+            style="@style/learn_movements"
+            android:text="plate twist"
+            />
+        <Button
+            android:id="@+id/pull_over"
+            style="@style/learn_movements"
+            android:text="pull over"
+            />
+        <Button
+            android:id="@+id/pull_press"
+            style="@style/learn_movements"
+            android:text="pull press"
+            />
+        <Button
+            style="@style/learn_movements"
+            android:text="push press"
+            />
+        <Button
+            style="@style/learn_movements"
+            android:text="sl deadlift"
+            />
+        <Button
+            style="@style/learn_movements"
+            android:text="sumo deadlift"
+            />
+
+        <Button
+            style="@style/learn_movements"
+            android:text="sumo pull"
+            />
+        <Button
+            style="@style/learn_movements"
+            android:text="thruster"
+            />
+
+        <Button
+            style="@style/learn_movements"
+            android:text="tricep extension"
+            />
+
+        <Button
+            style="@style/learn_movements"
+            android:text="upright row"
+            />
+
+        <Button
+            style="@style/learn_movements"
+            android:text="wt dip"
+            />
+        <Button
+            style="@style/learn_movements"
+            android:text="wt pull up"
+            />
+
+
+
+    </LinearLayout>
+</ScrollView>

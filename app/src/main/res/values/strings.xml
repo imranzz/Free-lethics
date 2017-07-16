@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Free Lithics</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab1">LEARN THE MOVEMENTS</string>
+    <string name="tab2">TRAINING</string>
+    <string name="tab3">COACH</string>
+    <string name="tab4">PROFILE</string>
+    <string name="coach_1">your individual weekly gym training plan for maximum progress</string>
+    <string name="coach_2">Guarenteed results, whether your goal is to build muscles size and strength, lose fat or both</string>
+    <string name="coach_3">Continuously adapts to your fitness level and goals </string>
+    <string name="coach_4">Unlock all the workouts and training variations for long-term success</string>
+</resources>
